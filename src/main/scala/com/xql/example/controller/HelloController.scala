@@ -1,4 +1,4 @@
-package com.xql.module.controller
+package com.xql.example.controller
 
 import org.springframework.web.bind.annotation.{RequestMapping, ResponseBody, RestController}
 

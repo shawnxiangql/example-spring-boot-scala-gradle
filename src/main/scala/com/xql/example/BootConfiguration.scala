@@ -1,4 +1,4 @@
-package com.xql.module
+package com.xql.example
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 
